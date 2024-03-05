@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†ä¸Öùÿÿÿÿ8”¹š“1
+[
+java:S1155'">Use isEmpty() to check whether the collection is empty or not.(şŒ¥ß8”¹š“1
+T	java:S106("9Replace this use of System.out or System.err by a logger.(€Š“58”¹š“1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ö°¯¯ûÿÿÿÿ8”¹š“1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(Ë„–ºùÿÿÿÿ8”¹š“1
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(¥É‹Ëùÿÿÿÿ8”¹š“1
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(¶ô¥¶øÿÿÿÿ8”¹š“1
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(ßƒĞ‰üÿÿÿÿ8”¹š“1
+J
+java:S1068"(Remove this unused "DUOI" private field.(É³‡‹øÿÿÿÿ8”¹š“1
